@@ -1,7 +1,7 @@
 #!/bin/bash
 # gsettings set org.gnome.desktop.interface color-scheme prefer-light
 gsettings set org.gnome.desktop.interface gtk-theme 'Yaru-blue'
-gsettings set org.gnome.desktop.interface icon-theme 'Papirus'
+gsettings set org.gnome.desktop.interface icon-theme 'Kora-light'
 gsettings set org.gnome.desktop.interface cursor-theme 'Bibata-Original-Ice'
 
 # changing starship preset
